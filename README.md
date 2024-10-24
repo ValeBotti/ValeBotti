@@ -1,5 +1,5 @@
 ### Hi there, I'm Valentina nice to meet you, welcome to my profile 👋
-This profile helps me keeping trak of my improvements, starting up as a newbie to a developer.
+Here you can find a collection of projects I've worked on during my uni studies.
 
 <!--
 **ValeBotti/ValeBotti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
