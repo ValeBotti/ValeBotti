@@ -3,7 +3,7 @@ Here you can find a collection of projects I've worked on.
 
 Let me intrduce you to my past expirences with a simple blullet point:
 
-- HTML5 project
+- HTML5 project - Core Memories
 - Decision Tree collaboration
 - Mobile Development (cross platform and Android)
 <!--
