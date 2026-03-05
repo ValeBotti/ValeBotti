@@ -1,6 +1,6 @@
 ### Hi, I'm Valentina — nice to see you here!
 
-Let me intrduce you to my past projects with a simple blullet point:
+Here’s a quick overview of the projects you’ll find here:
 
 - HTML5 project - Core Memories
 - Decision Tree collaboration
