@@ -2,7 +2,7 @@
 
 Here’s a quick overview of the projects you’ll find here:
 
-- Core Memories - HTML5 project
+- Core Memories: HTML5 project
 - Decision Tree collaboration
 - Mobile Development (cross platform and Android)
 <!--
