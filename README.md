@@ -1,17 +1,12 @@
-### Hi there, I'm Valentina nice to meet you, welcome to my profile 👋
-Here you can find a collection of projects I've worked on during my uni studies.
+### Hi, I'm Valentina — nice to see you here!
+Here you can find a collection of projects I've worked on.
 
+Let me intrduce you to my past expirences with a simple blullet point:
+
+- HTML5 project
+- Decision Tree collaboration
+- Mobile Development (cross platform and Android)
 <!--
-**ValeBotti/ValeBotti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- CNR - Frontend (Android), Backend (Spring JDBC - Jersey), DB (MySQL)
+- ASP.NET MVC (C#)
 -->
