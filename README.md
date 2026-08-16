@@ -2,4 +2,4 @@
 
 I took my bachelor's degree in cs at UniMi, where I learned to code and a whole lot of theory. Here you can find my projects; some of them I've done during uni, and now I experiment with languages and solutions and store them here.
 
-![](https://1drv.ms/i/c/e3188549c7d8abfc/IQAVpA43uxfvS4w4Z_nZWfItAQrQ2iV6zdVwGG74eJ5Yo74?e=kMNFYj) Currently, I'm improving my old Kotlin application and learning ASP.NET Core Web API basics; you can have a look if you like.
+![Kitty Icon](./images/kitty.png) Currently, I'm improving my old Kotlin application and learning ASP.NET Core Web API basics; you can have a look if you like.
