@@ -4,3 +4,5 @@
 
 🚧 **Work in progress:** <br>
 - Studying for Microsoft DP-300, not to become a DBA, but to dive into backend foundations. It gives me lots of opportunities to expand my technical knowledge in the most diverse ways. <br>
+
+I hope something here sparks your own defining point of view.
